@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "login": "daniel",
+      "password": "a",
+      "taskAmmount": 13,
+      "index": 1,
+      "tasks": [
+        {
+          "taskname": "a",
+          "tasktype": "Work",
+          "taskDescription": "a",
+          "index": 0,
+          "id": 6
+        },
+        {
+          "taskname": "a",
+          "tasktype": "Studies",
+          "taskDescription": null,
+          "index": 1,
+          "id": 7
+        },
+        {
+          "taskname": "a",
+          "tasktype": "Studies",
+          "taskDescription": null,
+          "index": 2,
+          "id": 8
+        },
+        {
+          "taskname": "a",
+          "tasktype": "Studies",
+          "taskDescription": null,
+          "index": 3,
+          "id": 9
+        },
+        {
+          "taskname": "a",
+          "tasktype": "Work",
+          "taskDescription": null,
+          "index": 4,
+          "id": 10
+        },
+        {
+          "taskname": "a",
+          "tasktype": "Studies",
+          "taskDescription": null,
+          "index": 5,
+          "id": 12
+        },
+        {
+          "taskname": "a",
+          "tasktype": "Work",
+          "taskDescription": null,
+          "index": 6,
+          "id": 13
+        }
+      ],
+      "completedTasks": [
+        {
+          "taskname": "a",
+          "tasktype": "Personal",
+          "taskDescription": null,
+          "id": 11
+        }
+      ]
+    },
+    {
+      "id": "a8cf",
+      "login": "newuser",
+      "password": "222aA",
+      "taskAmmount": 5,
+      "tasks": [],
+      "completedTasks": []
+    },
+    {
+      "id": "940f",
+      "login": "rafael",
+      "password": "senha1A",
+      "taskAmmount": 4,
+      "tasks": [],
+      "completedTasks": [
+        {
+          "taskname": "sas",
+          "tasktype": "Studies",
+          "taskDescription": null,
+          "id": 4
+        },
+        {
+          "taskname": "novo nome",
+          "tasktype": "Studies",
+          "taskDescription": null,
+          "id": 3
+        },
+        {
+          "taskname": "Nova tarefa",
+          "tasktype": "Studies",
+          "taskDescription": null,
+          "id": 2
+        }
+      ]
+    }
+  ]
+}
